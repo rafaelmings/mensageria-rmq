@@ -74,5 +74,4 @@ RabbitMQ é um servidor de mensageria usado para fazer sistemas diferentes se co
 
 ## Integrantes 👤
 
-Luis Gustavo Rodrigues Ribeiro
-Rafael Domingues de Oliveira
+Luis Gustavo Rodrigues Ribeiro / Rafael Domingues de Oliveira
